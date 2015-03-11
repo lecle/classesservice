@@ -36,7 +36,7 @@ var dummyContainer = {
     }
 };
 
-describe('users', function() {
+describe('classes', function() {
     describe('#init()', function () {
         it('should initialize without error', function (done) {
 
